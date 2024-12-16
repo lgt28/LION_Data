@@ -18,7 +18,7 @@ Requirements: A modern web browser (e.g., Chrome, Firefox, Edge).
 
 **LION Software**
 
-LION Data is an Open-Access branch of the LION Software suite, which aims to make scientific information and data more accessible. LION Software includes multiple tools and platforms, including LION Equip, a set of professional development courses, and LION Consultancy. Further information can be found at lionsoftware.info.
+LION Data is an Open-Access branch of the LION Software suite, which aims to make scientific information and data more accessible. LION Software includes multiple tools and platforms, including LION Equip, a set of professional development courses, and LION Consultancy. Further information can be found at www.lionsoftware.info.
 
 **Cite**
 
