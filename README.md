@@ -24,7 +24,7 @@ LION Data is an Open-Access branch of the LION Software suite, which aims to mak
 
 If you use LION Data in your research or publication, please cite it as follows:
 
-Todd, Lucy; LION Software International Ltd (2024), LION Data, 
+Todd, Lucy; LION Software International Ltd (2024), LION Data, DOI:10.5281/zenodo.14501051
 
 **Contact**
 
