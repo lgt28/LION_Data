@@ -1,7 +1,9 @@
 # LION_Data
 **Drag-and-Drop Excel/CSV Visualization**
 
-Written by Lucy Todd: This project was developed entirely by Lucy Todd and the last edits were made in September 2024.
+Written by Lucy Todd
+
+Last edits were made in September 2024.
 
 **Overview**
 
